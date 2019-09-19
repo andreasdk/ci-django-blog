@@ -10,6 +10,7 @@ lib/
 # python
 *.py[cod]
 __pycache__/
+env.py
 
 # local database
 *.sqlite3
