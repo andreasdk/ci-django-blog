@@ -1,0 +1,24 @@
+# environmental variables
+.env
+bin/
+include/
+lib/
+
+# VS Code
+.vscode
+
+# python
+*.py[cod]
+__pycache__/
+
+# local database
+*.sqlite3
+
+# coverage test files
+htmlcov/
+.coverage
+.coveragerc
+
+# local files
+# static/
+media/
